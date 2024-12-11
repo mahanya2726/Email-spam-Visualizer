@@ -7,7 +7,7 @@ from nltk.stem.porter import PorterStemmer
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Custom CSS for Dark Mode Styling, removing link icon, and making result bold
+# Custom CSS for Dark Mode Styling
 st.markdown(
     """
     <style>
