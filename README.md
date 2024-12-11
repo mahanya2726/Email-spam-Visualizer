@@ -1,4 +1,4 @@
-# Email-spam-Classifier
+# Email-spam-Visualizer
 This repository contains a machine learning-based email spam classifier built with Streamlit, which classifies emails as either spam or not spam. The model is trained using a dataset of labeled emails, and the application uses Natural Language Processing (NLP) techniques to preprocess and classify the email content.
 
 Features:
