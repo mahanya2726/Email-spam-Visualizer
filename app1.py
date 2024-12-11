@@ -6,6 +6,8 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import matplotlib.pyplot as plt
 import numpy as np
+nltk.download('punkt')
+nltk.download('stopwords')
 
 # Custom CSS for Dark Mode Styling
 st.markdown(
